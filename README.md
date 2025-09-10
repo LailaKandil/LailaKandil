@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my email:lailakandil64@gmail.com
-This is my graduation project CareerTkof
+- This is my graduation project CareerTkof
 https://github.com/Careertkof
 <!---
 LailaKandil/LailaKandil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
